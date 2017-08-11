@@ -1,0 +1,1 @@
+copied from create-react-app, changed peerDependencies to dependencies
